@@ -81,7 +81,7 @@
                 innerHTML = result;
 
                 document.querySelector('.js-moves').
-                innerHTML = `You <IMG src="/Rock_Paper_Sissors/${playerMove}-emoji.png" class="move-icon"></IMG> <IMG src="/Rock_Paper_Sissors/${computerMove}-emoji.png" class="move-icon"></IMG> Computer`;
+                innerHTML = `You <IMG src="/${playerMove}-emoji.png" class="move-icon"></IMG> <IMG src="/Rock_Paper_Sissors/${computerMove}-emoji.png" class="move-icon"></IMG> Computer`;
 
                 
 
